@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aejin's workspace
+title: My workspace
 subtitle: Artificial Intelligence Research Laboratory, ETRI
 cover-img: /assets/img/aejin-square-2.jpg
 ---
