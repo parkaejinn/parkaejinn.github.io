@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: My workspace
+title: Aejin Park
 
 # [수정필요] 간단한 사이트 설명
-description: Acedemic Website of Seokho Son
+description: Study recode Website of Aejin 
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
 author: Aejin Park 
@@ -17,7 +17,7 @@ navbar-links:
   Blog: "blog"
   Project: "project"
   GitHub: "https://github.com/parkaejinn"
-  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
+  Google Scholar: "https://scholar.google.com/citations?user="
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
@@ -27,7 +27,7 @@ round-avatar: true
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
-#title-img: "/assets/img/seokho-square.jpg"
+#title-img: "/assets/img/aejin-square-2.jpg"
 
 
 # --- Footer options --- #
@@ -37,7 +37,7 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "pp9794@naver.com"
-  facebook: pp9794@naver.com
+  instagram: zzzzzzzo_o@naver.com
   github: parkaejinn
   linkedin: parkaejin
 #  twitter: daattali
